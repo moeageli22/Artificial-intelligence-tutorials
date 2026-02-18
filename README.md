@@ -9,3 +9,16 @@ This repository contains structured weekly tasks designed to guide learners thro
 
 The aim of this repository is to develop a strong foundation in AI by progressing from core principles to practical implementation, ensuring both conceptual understanding and technical confidence.
 
+
+Learning Objectives
+
+1. Understand fundamental Artificial Intelligence concepts
+
+2. Apply AI theory through practical coding exercises
+
+3. Develop problem-solving skills using real-world datasets
+
+4. Gain experience with common AI and machine learning workflows
+
+5. Build knowledge progressively through structured weekly learning
+
