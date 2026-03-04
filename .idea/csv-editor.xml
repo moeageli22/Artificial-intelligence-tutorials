@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/bank-full.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/fake_reg.csv">
           <value>
             <Attribute>
