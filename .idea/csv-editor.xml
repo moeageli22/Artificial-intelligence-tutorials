@@ -3,7 +3,21 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/2015.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Boston.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Mall_Customers.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -18,6 +32,13 @@
           </value>
         </entry>
         <entry key="/fake_reg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/gene_expression.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
