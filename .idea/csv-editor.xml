@@ -10,56 +10,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Boston.csv">
+        <entry key="/data/Boston.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/Mall_Customers.csv">
+        <entry key="/data/bank-full.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/Social_Network_Ads.csv">
+        <entry key="/data/fake_reg.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/bank-full.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/fake_reg.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/gene_expression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/sonar.all-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/week1_student_data_clean.csv">
+        <entry key="/data/week1_student_data_clean.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
