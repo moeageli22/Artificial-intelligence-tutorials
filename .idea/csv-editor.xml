@@ -17,7 +17,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/Churn_Modelling.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/bank-full.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/diabetes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
